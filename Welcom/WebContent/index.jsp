@@ -35,6 +35,5 @@
 <p><%=content1 %></p>
 <p><%=content2 %></p>
 <p><%=content3 %></p>
-
 </body>
 </html>
